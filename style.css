@@ -1,0 +1,52 @@
+.header{
+	background: black;
+	padding: 5px;
+}
+
+#title{
+	font-size: 50;
+	color: white;
+	font-family: Verdana, Arial;
+	padding: 5px;
+	}
+
+.header_image{
+	max-width: 140px;
+	border-radius: 50%;
+	padding: 5px;
+
+}
+
+body{
+	background-color: rgb(229, 233, 233);
+	padding: 5px;
+}
+
+.barra-menu{
+	background-color: white;
+}
+
+.image_card{
+	max-width: 300px;
+	max-height: 180px;
+	padding: 5px;
+}
+
+.card_conf{
+	border: 1px;
+	background-color: white;
+	padding: 5px;
+}
+
+.title_section{
+	background: rgb(84, 121, 223);
+	color: white;
+	padding: 3px;
+}
+
+.container-fluid{
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
