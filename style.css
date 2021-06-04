@@ -1,5 +1,10 @@
+body{
+	max-width: 1150px;
+	margin: auto;
+}
+
 .header{
-	background: black;
+	background: #21618C;
 	padding: 5px;
 }
 
@@ -12,7 +17,7 @@
 
 .header_image{
 	max-width: 140px;
-	border-radius: 50%;
+	border-radius: 20%;
 	padding: 5px;
 
 }
@@ -27,8 +32,8 @@ body{
 }
 
 .image_card{
-	max-width: 300px;
-	max-height: 180px;
+	max-width: 250px;
+	max-height: 150px;
 	padding: 5px;
 }
 
@@ -39,7 +44,7 @@ body{
 }
 
 .title_section{
-	background: rgb(84, 121, 223);
+	background: #2E86C1;
 	color: white;
 	padding: 3px;
 }
